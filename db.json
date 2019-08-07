@@ -1,0 +1,37 @@
+{
+  "users": [
+{
+	"id": 1,
+	"email": "asdasd@gmail.com",
+	"name": "asdas",
+	"food": "Carrots",
+	"checked": [
+		"me",
+		"that"
+	]
+},
+{
+	"id": 2,
+	"email": "asdasd+2@gmail.com",
+	"name": "asdas 2",
+	"food": "Carrots",
+	"checked": [
+		"me",
+		"that"
+	]
+},
+{
+	"id": 3,
+	"email": "asdasd+3@gmail.com",
+	"name": "asdas 3",
+	"food": "Carrots",
+	"checked": [
+		"me",
+		"that"
+	]
+}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
